@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rafael Rodrigues | @rafarodgs1
 - 👀 I’m interested in study and develop my knowledg.
 - 🌱 I’m currently learning systems analysis and development.
+- 🇧🇷 Br
 
 <!---
 rafarodgs1/rafarodgs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
